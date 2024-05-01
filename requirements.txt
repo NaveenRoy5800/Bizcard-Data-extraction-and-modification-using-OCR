@@ -1,0 +1,8 @@
+requirements--- pip install the below libraries
+
+streamlit
+streamlit_option_menu
+easyocr
+mysql-connector-python
+pandas
+numpy
